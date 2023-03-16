@@ -19,7 +19,7 @@ public class Circle extends Shape {
         return 0;
     }
     public Circle(){
-        super("Circulo","");
+        super("Circulo");
     }
     public Circle(double radio){
         this();
